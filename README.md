@@ -1,2 +1,2 @@
 ## tensorflow-tutorials
-Tensorflow tutorials
+This repository contains Tensorflow tutorials
