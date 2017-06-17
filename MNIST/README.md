@@ -3,6 +3,10 @@ Contains tensorflow tutorial code.
 
 ## Includes:
 
-Logistic Regression
+- Logistic Regression
+- Multilayer Convolutional Network
+
+
+
 
 
